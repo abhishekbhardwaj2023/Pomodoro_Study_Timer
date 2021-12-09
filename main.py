@@ -1,3 +1,4 @@
+# Importing required libraries
 from tkinter import *
 import math
 # ---------------------------- CONSTANTS ------------------------------- #
